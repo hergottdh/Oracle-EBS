@@ -1,3 +1,4 @@
+--Testing
 CREATE OR REPLACE PROCEDURE APPS.XXRLJE_PROCESS_SPHE_E1_TRX(ERRBUFF Varchar2,ERRCODE Varchar2) as
 
 --we will run this after the datamart
